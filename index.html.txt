@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <h1>Hola Mundo 🌎</h1>
+  <h1>Hola Mundo  hoy comienza todo</h1>
   <p>Esta es mi primera página web.</p>
 
   <button onclick="saludar()">Haz clic</button>
